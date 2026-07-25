@@ -17,4 +17,12 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
