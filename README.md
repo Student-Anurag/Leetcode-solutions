@@ -6,12 +6,14 @@ Here are my leetcode solutions topicwise
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Breadth-First Search
