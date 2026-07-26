@@ -8,6 +8,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -20,9 +21,11 @@ Here are my leetcode solutions topicwise
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
