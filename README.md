@@ -43,6 +43,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
@@ -50,6 +51,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -58,10 +60,12 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
 |  |
@@ -75,4 +79,8 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
