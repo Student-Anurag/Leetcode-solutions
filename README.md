@@ -28,6 +28,7 @@ Here are my leetcode solutions topicwise
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
 |  |
@@ -61,6 +62,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
+| [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
