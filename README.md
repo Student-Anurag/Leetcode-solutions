@@ -21,6 +21,7 @@ Here are my leetcode solutions topicwise
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ Here are my leetcode solutions topicwise
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
@@ -102,6 +104,7 @@ Here are my leetcode solutions topicwise
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
