@@ -21,6 +21,7 @@ Here are my leetcode solutions topicwise
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -65,6 +66,7 @@ Here are my leetcode solutions topicwise
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
