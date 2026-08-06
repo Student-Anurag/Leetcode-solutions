@@ -45,6 +45,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sorting
@@ -110,4 +111,8 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
