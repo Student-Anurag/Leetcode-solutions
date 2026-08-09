@@ -19,6 +19,7 @@ Here are my leetcode solutions topicwise
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ Here are my leetcode solutions topicwise
 | [0518-coin-change-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
@@ -52,6 +54,7 @@ Here are my leetcode solutions topicwise
 | [0368-largest-divisible-subset](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -119,6 +122,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -140,4 +144,16 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
