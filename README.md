@@ -24,6 +24,7 @@ Here are my leetcode solutions topicwise
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -60,6 +61,7 @@ Here are my leetcode solutions topicwise
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -78,6 +80,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -98,6 +101,7 @@ Here are my leetcode solutions topicwise
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Rolling Hash
@@ -132,6 +136,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -160,6 +165,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -168,6 +174,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +183,8 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
