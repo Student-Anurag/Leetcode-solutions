@@ -22,6 +22,7 @@ Here are my leetcode solutions topicwise
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -47,6 +48,7 @@ Here are my leetcode solutions topicwise
 | [0518-coin-change-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -70,6 +72,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -94,6 +97,7 @@ Here are my leetcode solutions topicwise
 | [0115-distinct-subsequences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -119,6 +123,7 @@ Here are my leetcode solutions topicwise
 ## Hash Table
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -187,4 +192,8 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
