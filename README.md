@@ -27,6 +27,7 @@ Here are my leetcode solutions topicwise
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
@@ -130,6 +131,7 @@ Here are my leetcode solutions topicwise
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Number Theory
 |  |
 | ------- |
