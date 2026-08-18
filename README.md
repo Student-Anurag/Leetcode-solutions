@@ -24,6 +24,7 @@ Here are my leetcode solutions topicwise
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -102,6 +103,7 @@ Here are my leetcode solutions topicwise
 | [0516-longest-palindromic-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +194,7 @@ Here are my leetcode solutions topicwise
 ## Bit Manipulation
 |  |
 | ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Nim Game
 |  |
@@ -206,4 +209,8 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+## Backtracking
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
