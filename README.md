@@ -38,6 +38,7 @@ Here are my leetcode solutions topicwise
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0300-longest-increasing-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -95,6 +96,7 @@ Here are my leetcode solutions topicwise
 | [0010-regular-expression-matching](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
