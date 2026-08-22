@@ -7,6 +7,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0064-minimum-path-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -35,6 +36,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0064-minimum-path-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,4 +215,8 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
