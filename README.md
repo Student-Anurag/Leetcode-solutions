@@ -70,6 +70,7 @@ Here are my leetcode solutions topicwise
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -90,6 +91,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1927-sum-game](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
@@ -108,6 +110,7 @@ Here are my leetcode solutions topicwise
 | [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1927-sum-game](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -152,6 +155,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0486-predict-the-winner](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1927-sum-game](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
