@@ -112,6 +112,7 @@ Here are my leetcode solutions topicwise
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1927-sum-game](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -198,6 +199,7 @@ Here are my leetcode solutions topicwise
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
