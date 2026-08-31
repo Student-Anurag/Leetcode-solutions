@@ -228,4 +228,8 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
