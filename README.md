@@ -29,6 +29,7 @@ Here are my leetcode solutions topicwise
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -63,6 +64,7 @@ Here are my leetcode solutions topicwise
 | [1140-stone-game-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
@@ -148,6 +150,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -179,6 +182,7 @@ Here are my leetcode solutions topicwise
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -211,6 +215,7 @@ Here are my leetcode solutions topicwise
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
