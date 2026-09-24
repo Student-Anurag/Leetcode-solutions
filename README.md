@@ -71,6 +71,7 @@ Here are my leetcode solutions topicwise
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Math
@@ -270,6 +271,7 @@ Here are my leetcode solutions topicwise
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -278,5 +280,10 @@ Here are my leetcode solutions topicwise
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
