@@ -75,6 +75,7 @@ Here are my leetcode solutions topicwise
 | [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Math
 |  |
 | ------- |
@@ -275,16 +276,19 @@ Here are my leetcode solutions topicwise
 | [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -294,4 +298,12 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
