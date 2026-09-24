@@ -71,6 +71,7 @@ Here are my leetcode solutions topicwise
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
@@ -271,6 +272,7 @@ Here are my leetcode solutions topicwise
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Union-Find
@@ -280,10 +282,16 @@ Here are my leetcode solutions topicwise
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
