@@ -1,45 +1,47 @@
 class Solution {
-    public int[] findOrder(int numCourses, int[][] pre) {
+    boolean hasCycle;
+    public void DFS(List<List<Integer>> adj, int u, boolean[] vis, boolean[] inRec, Stack<Integer> st) {
+        vis[u] = true;
+        inRec[u] = true;
+        for(int v : adj.get(u)) {
+            if(inRec[v]) {
+                hasCycle = true;
+                return;
+            }
+            if(! vis[v]) {
+                DFS(adj, v, vis, inRec, st);
+            }
+        }
+        st.push(u);
+        inRec[u] = false;
+    }
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+        hasCycle = false;
         List<List<Integer>> adj = new ArrayList<>();
         for(int i=0; i<numCourses; i++) {
             adj.add(new ArrayList<>());
         }
-        for(int[] x : pre) {
-            int u = x[0];
-            int v = x[1];
-            adj.get(v).add(u);
+        for(int[] x : prerequisites) {
+            int course = x[0];
+            int prerequisite = x[1];
+            adj.get(prerequisite).add(course);
         }
-        int[] indegree = new int[numCourses];
-        for(int u=0; u<numCourses; u++) {
-            for(int v : adj.get(u)) {
-                indegree[v]++;
-            }
-        }
-        Queue<Integer> q = new LinkedList<>();
-        List<Integer> res = new ArrayList<>();
+        boolean[] vis = new boolean[numCourses];
+        boolean[] inRec = new boolean[numCourses];
+        Stack<Integer> st = new Stack<>();
         for(int i=0; i<numCourses; i++) {
-            if(indegree[i] == 0) {
-                q.add(i);
-                res.add(i);
+            if(! vis[i]) {
+                DFS(adj, i, vis, inRec, st);
             }
         }
-        int count = 0;
-        while(! q.isEmpty()) {
-            int u = q.poll();
-            count++;
-            for(int v : adj.get(u)) {
-                indegree[v]--;
-                if(indegree[v] == 0) {
-                    q.add(v);
-                    res.add(v);
-                }
-            }
+        if(hasCycle) {
+            return new int[]{};
         }
-        int[] ans = new int[res.size()];
-        for(int i=0; i<ans.length; i++) {
-            ans[i] = res.get(i);
+        int[] res = new int[numCourses];
+        int idx = 0;
+        while(! st.isEmpty()) {
+            res[idx++] = st.pop();
         }
-        if(count == numCourses) return ans;
-        else return new int[]{};
+        return res;
     }
 }
