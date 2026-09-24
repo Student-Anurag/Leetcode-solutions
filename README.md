@@ -72,6 +72,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 ## Math
 |  |
 | ------- |
@@ -266,4 +267,16 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
