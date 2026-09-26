@@ -6,21 +6,14 @@ class Solution {
             mp.put(vec.get(0), vec.get(1));
         }
         StringBuilder res = new StringBuilder();
-        StringBuilder temp = new StringBuilder();
-        boolean isBracketOpen = false;
         int i = 0;
         while(i < n) {
             char ch = s.charAt(i);
             if(ch == '(') {
-                isBracketOpen = true;
-            }
-            else if(ch == ')') {
-                res.append(mp.getOrDefault(temp.toString(), "?"));
-                isBracketOpen = false;
-                temp = new StringBuilder();
-            }
-            else if(isBracketOpen) {
-                temp.append(ch);
+                int j = s.indexOf(")", i+1);
+                String temp = s.substring(i+1, j);
+                res.append(mp.getOrDefault(temp, "?"));
+                i = j;
             }
             else {
                 res.append(ch);
