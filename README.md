@@ -79,6 +79,7 @@ Here are my leetcode solutions topicwise
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Math
 |  |
 | ------- |
@@ -284,6 +285,7 @@ Here are my leetcode solutions topicwise
 | [0547-number-of-provinces](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Union-Find
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Here are my leetcode solutions topicwise
 | [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -300,6 +303,7 @@ Here are my leetcode solutions topicwise
 | [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
