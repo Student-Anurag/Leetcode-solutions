@@ -136,6 +136,7 @@ Here are my leetcode solutions topicwise
 | [1143-longest-common-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1927-sum-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -255,6 +256,7 @@ Here are my leetcode solutions topicwise
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Backtracking
 |  |
@@ -321,4 +323,8 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
