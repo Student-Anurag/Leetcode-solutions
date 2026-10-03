@@ -46,6 +46,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
@@ -131,6 +132,7 @@ Here are my leetcode solutions topicwise
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -262,6 +264,7 @@ Here are my leetcode solutions topicwise
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -338,6 +341,7 @@ Here are my leetcode solutions topicwise
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Shortest Path
