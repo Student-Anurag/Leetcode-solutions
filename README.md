@@ -141,6 +141,7 @@ Here are my leetcode solutions topicwise
 | [0214-shortest-palindrome](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -269,6 +270,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -347,6 +349,7 @@ Here are my leetcode solutions topicwise
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Shortest Path
