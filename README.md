@@ -35,6 +35,7 @@ Here are my leetcode solutions topicwise
 | [1584-min-cost-to-connect-all-points](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -207,6 +208,7 @@ Here are my leetcode solutions topicwise
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Student-Anurag/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
